@@ -6,6 +6,6 @@ uses vercel for deployment
 
 a next.js example of a invoice dashboard
 
-can log in with user "user@nextnail.com"
+can log in with user "user@nextmail.com"
 
 password "123456"

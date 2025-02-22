@@ -1,6 +1,6 @@
 ## hello and welcome
 
-this app is browsable via this url (url)
+this app is browsable via this url (https://nextjs-dashboard-repo-sooty.vercel.app)
 
 uses vercel for deployment
 
